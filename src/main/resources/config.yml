@@ -4,7 +4,7 @@
 # Language Settings
 # Supported languages: en (English), de (German), zh_cn(Simplified Chinese)
 # You can add custom languages by creating JSON files in the lang/ folder
-language: en
+language: de
 
 chunk-generation:
   # Radius for chunk generation (in blocks)
